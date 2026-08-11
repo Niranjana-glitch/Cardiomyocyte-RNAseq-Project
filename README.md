@@ -107,7 +107,7 @@ Known cardiac marker genes exhibited stage-specific expression patterns consiste
 
 ## Author
 
-Shameem Fathima
+Niranjana D
 
 B.Tech Biotechnology
 
